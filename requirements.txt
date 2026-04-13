@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+opencv-python
+pillow
+numpy
+scikit-learn
+svgwrite

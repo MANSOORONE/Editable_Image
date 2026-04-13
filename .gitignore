@@ -1,0 +1,4 @@
+*.pth
+backend/uploads/
+__pycache__/
+*.pyc
